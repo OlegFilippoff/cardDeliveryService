@@ -1,5 +1,5 @@
 # cardDeliveryService
-
+[![Build status](https://ci.appveyor.com/api/projects/status/uwiv3was7n8pdeuj/branch/master?svg=true)](https://ci.appveyor.com/project/OlegFilippoff/cardorderservice-257nn/branch/master)
 # Домашнее задание к занятию «2.2. Selenide»
 
 В качестве результата пришлите ссылку на ваш GitHub-проект в личном кабинете студента на сайте [netology.ru](https://netology.ru).
